@@ -1,0 +1,29 @@
+.Task {
+    border: '1px solid red';
+    display: inline-block;
+				max-width: 98%;
+				height: auto;
+				width: 33%;
+}
+section{
+    color:blueviolet;
+    width: 360px;
+  border: 4px solid green;
+  padding: 10px;
+  margin: 30px;
+  
+}
+.date{
+    color: red;
+}
+p{
+    color:orange;
+}
+.closebutton{
+    line-height: 12px;
+     width: 18px;
+     font-size: 8pt;
+     margin-top: 1px;
+     margin-right: 2px;
+}
+  
